@@ -10,5 +10,5 @@
 - **优势品类**：平台类 (Platform) 和 射击类 (Shooter) 展现出显著的正向销量贡献。
 
 ## 技术栈
-- **语言**：Python 3.x
+- **语言**：Python 3.9
 - **核心库**：`statsmodels` (统计建模), `pandas` (数据处理), `matplotlib/seaborn` (可视化)
